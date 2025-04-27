@@ -1,0 +1,7 @@
+Day 4 – Introduction to JSX
+---------------------------
+- Learned how JSX looks like HTML but is actually JavaScript.
+- Edited App.jsx to display a heading and paragraph.
+- Used JSX to show a custom message: "Hello, React!"
+- Displayed a logo/image on the page using JSX.
+- JSX gets compiled to React.createElement behind the scenes.
